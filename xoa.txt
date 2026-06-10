@@ -1,0 +1,1 @@
+ cho text vào file xoa.txt
